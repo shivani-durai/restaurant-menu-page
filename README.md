@@ -1,2 +1,13 @@
 # restaurant-menu-page
-A simple restaurant menu page 🍴 built using HTML, CSS, and JavaScript 💻. Features a responsive design 📈 and interactive menu items 🤩."
+Restaurant Menu Page
+A simple web page showcasing a restaurant's menu items, prices, and descriptions.
+
+Features
+- Responsive design for mobile and desktop devices
+- Clean and modern design
+
+Technologies Used
+- HTML5
+- CSS3
+
+##thanks for visiting my page
