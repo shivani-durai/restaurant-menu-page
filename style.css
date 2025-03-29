@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "young serif",serif;
+}
+.container{
+    padding: 60px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.section-two{
+    padding: 20px;
+    text-align: center;
+   
+}
+.receipe-card{
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #dddd;
+    border-radius: 5px;
+    background-color: #fff;
+    display: inline-block;
+    vertical-align: top;
+}
+.section-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.receipe-card img{
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    display: inline-block;
+}
+.section-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
